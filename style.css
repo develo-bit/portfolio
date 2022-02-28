@@ -1,6 +1,6 @@
 h1 {
-  font-size : 70px;
+  font-size : 45px;
   text-align : center;
-  border-bottom : 2px blue solid;
+  border-bottom : 0.5px black solid;
   margin: 100;
 }
