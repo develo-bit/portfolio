@@ -2,5 +2,21 @@ h1 {
   font-size : 45px;
   text-align : center;
   border-bottom : 0.5px black solid;
-  margin: 100;
+  margin: 0;
+  padding: 10px;
+}
+p {
+  text-align : center;
+  border : 1px black solid;
+  padding: 100px;
+  margin : 50px;
+  display: block;
+}
+
+#topButton {
+  display: block;
+  width: 50px;
+  margin-left: auto;
+  margin-right:auto;
+
 }
